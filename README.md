@@ -1,0 +1,1 @@
+# binskim-composite-action
