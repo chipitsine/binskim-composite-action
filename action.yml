@@ -30,7 +30,6 @@ runs:
         GITHUB_ACTION_PATH: ${{ github.action_path }}
 
     - name: Run goodbye.ps1
-      run: goodbye.ps1
+      run: ./goodbye.ps1
       shell: pwsh
-
 
